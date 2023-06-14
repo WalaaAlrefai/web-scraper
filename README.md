@@ -1,18 +1,21 @@
-# web-scraper
 
 
-# LAB - Class 17
 
-## Author: Walaa Alrefai
-## Links and Resources
+ # LAB - Class 17
+
+ ## project: web-scraper
+
+ __Author: Walaa Alrefai__
+
+ __Links and Resources__
 - [Code](./web_scraper/scraper.py)
 
-## Setup
-.venv
-requirements (where applicable)
+__Setup__
+- .venv
+- requirements (where applicable)
 
 
-## How to initialize/run your application (where applicable)
+__How to initialize/run your application:__
 
 python -m web_scraper.scraper 
 
